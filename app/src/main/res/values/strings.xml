@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Xebiademooapp</string>
     <string name="movie_box">MOVIEBOX</string>
+    <string name="playing_now">Playing Now</string>
 </resources>
