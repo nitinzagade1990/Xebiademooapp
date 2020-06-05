@@ -1,4 +1,4 @@
-package view.activity.adapter;
+package com.moviewapp.view.adapter;
 
 import android.view.ViewGroup;
 
