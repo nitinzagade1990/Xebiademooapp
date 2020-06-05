@@ -1,8 +1,10 @@
-package com.example.xebiademooapp;
+package com.moviewapp.view.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.xebiademooapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
